@@ -19,8 +19,10 @@ h2 {
 }
 
 #container{
-    background-color: black;
+    vertical-align: top;
+    text-align: center;
     align-self: center;
+    background-color: black;
     width: 70%;
     height: 100%;
 }
