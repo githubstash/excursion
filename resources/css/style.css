@@ -19,12 +19,11 @@ h2 {
 }
 
 #container{
-    vertical-align: top;
-    text-align: center;
-    align-self: center;
     background-color: black;
-    width: 70%;
-    height: 100%;
+    border: 0px solid;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
 }
 #download-link {
     color: aquamarine;
