@@ -3,3 +3,39 @@ body {
     text-align: center;
 }
 
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#download-link {
+    color: aquamarine;
+    size: 16px;
+}
+
+video {
+    text-align: center;
+}
+
+#description {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+#cpright{
+    font-family: Verdana;
+    font-size: 30px;
+    color: gray;
+    text-align: right;
+}
+
