@@ -18,14 +18,15 @@ h2 {
     color: white;
 }
 
-#container{
+.container{
     background-color: black;
     border: 0px solid;
     margin: auto;
     width: 1000px;
     padding: 10px;
 }
-#download-link {
+
+.download-link {
     color: aquamarine;
     size: 16px;
 }
@@ -34,13 +35,13 @@ video {
     text-align: center;
 }
 
-#description {
+.description {
     font-family: Verdana;
     font-size: 21px;
     color: gray;
 }
 
-#cpright{
+.cpright{
     font-family: Verdana;
     font-size: 25px;
     color: gray;
